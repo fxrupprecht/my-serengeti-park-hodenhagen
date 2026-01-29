@@ -1,4 +1,4 @@
-package org.matsim.run;
+package org.matsim.seminar3;
 
 
 import java.util.HashMap;
